@@ -3,3 +3,4 @@ A fillable database to maintain accountability of all barracks Soldiers' persona
 
 [Database Diagram](https://github.com/toppinp/Barracks_Deployment_Inventory/blob/master/BarracksInventoryDbDiagram.pdf)
 
+[Database Implementation](https://github.com/toppinp/Barracks_Deployment_Inventory/blob/master/Working%20Barracks%20Inventory%20Db.sql)
